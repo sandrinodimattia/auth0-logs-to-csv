@@ -50,7 +50,7 @@ const done = function() {
   });
 
   var output = new CSV(data, { header: true, cellDelimiter: '\t' }).encode();
-  fs.writeFileSync('./auth0-logs-2.csv', output);
+  fs.writeFileSync('./auth0-logs.csv', output);
 };
 
 const getLogs = function(checkPoint) {
