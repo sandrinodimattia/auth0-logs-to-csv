@@ -2,8 +2,6 @@
 
 Small tool to export your Auth0 Logs to a CSV file.
 
-![](https://cldup.com/ZNlm10-fKT.png)
-
 > Note: this tool still uses API v1
 
 ## Getting your account information
